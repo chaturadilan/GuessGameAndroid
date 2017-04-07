@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">GuessGame</string>
+    <string name="title_activity_score">ScoreActivity</string>
+</resources>
